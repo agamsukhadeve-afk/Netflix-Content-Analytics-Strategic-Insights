@@ -8,7 +8,7 @@
 
 
 
-\
+
 
 </p>
 
@@ -31,7 +31,6 @@ An end-to-end data analytics project that combines multiple public datasets to u
 * [Project Structure](#-project-structure)
 * [Installation](#-installation)
 * [How to Run](#-how-to-run)
-* [Future Improvements](#-future-improvements)
 * [Author](#-author)
 
 ---
@@ -89,43 +88,55 @@ The dashboard includes:
 * Creator Hub
 
 ---
-
 # 📸 Dashboard Preview
 
 ## Executive Dashboard
+
+![Executive Dashboard](Images/dashboard-overview.png)
 
 ---
 
 ## Analytics Dashboard
 
----
-
-## Key Visualizations
-
-### 🌍 Country-wise Content Distribution
+![Analytics Dashboard](Images/dashboard-analytics.png)
 
 ---
 
-### 🎭 Genre Distribution
+## 🌍 Country-wise Content Distribution
+
+![Country-wise Content Distribution](Images/content-by-country.png)
 
 ---
 
-### 📈 Year-wise Content Addition
+## 🎭 Genre Distribution
+
+![Genre Distribution](Images/genre-distribution.png)
 
 ---
 
-### 🎬 Movie Duration Distribution
+## 📈 Year-wise Content Addition
+
+![Year-wise Content Addition](Images/yearly-content-trend.png)
 
 ---
 
-### 🗺️ Global Content Production
+## 🎬 Movie Duration Distribution
+
+![Movie Duration Distribution](Images/movie-duration-distribution.png)
 
 ---
 
-### 🌎 Top Content Producing Countries
+## 🗺️ Global Content Production
+
+![Global Content Production](Images/production-map.png)
 
 ---
 
+## 🌎 Top Content Producing Countries
+
+![Top Content Producing Countries](Images/top-producing-countries.png)
+
+---
 # 📈 Key Business Insights
 
 * Netflix's catalog spans **23,000+ titles** across **147 countries**, highlighting strong global expansion.
